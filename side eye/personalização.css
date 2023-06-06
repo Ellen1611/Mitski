@@ -1,0 +1,63 @@
+body {
+    margin: 0px;
+    background-color: rgb(0, 0, 0);
+}
+#titulo{
+
+    border: 5px dotted  rgb(206, 91, 162)
+  
+    
+
+}
+.livro1{
+    color: lightskyblue;
+}
+.livro1:hover{
+    color: brown;
+}
+.textoale{
+    color: rgb(165, 20, 109);
+    font-size: 17px;
+ letter-spacing: 0,5px;
+ word-spacing: 2px;
+ line-height: 20px;
+ text-shadow: 2px 5px 10px rgb(60, 51, 63);
+}
+.primeiros{
+
+    color: rgb(224, 118, 219);
+    font-size: 20px;
+}
+title{
+    color: rgb(113, 108, 108);
+}
+.insta{
+    color: cornflowerblue;
+    text-decoration: none;
+}
+.insta:hover{
+    color: rgb(138, 2, 77);
+   text-decoration: line-through;
+}
+.Expli{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 218, 255);
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: beige;
+}
+li{
+    color: aliceblue;
+}
+h2{
+    color: antiquewhite;
+}
+a{
+    color: rgb(158, 134, 216);
+}
+title{
+    color: rgb(222, 168, 247);
+}
